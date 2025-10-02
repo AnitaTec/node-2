@@ -3,3 +3,6 @@
 .vscode
 .DS_store
 .idea
+
+
+.node_modules
